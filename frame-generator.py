@@ -18,6 +18,3 @@ norm_x = np.sqrt(x**2)
 #Calculate frame coefficients
 X_fc= np.matmul(np.transpose(X), x)
 X_fc
-
-    
-    

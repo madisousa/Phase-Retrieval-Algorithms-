@@ -28,6 +28,4 @@ def pr(b, a, W):
     return(X)
     
     #This returns the optimal solution X, matrix, to the phase retrieval problem. 
-
-    
     
